@@ -1,0 +1,146 @@
+body {
+	background-color: #F2F2F2;
+  background-image: url(https://roarlions.com/images/2020/12/8/LeoIII.jpg);
+  background-repeat: no-repeat;
+  font-weight:normal;
+  font-family:"Segoe UI" , "Segoe" , "SegoeUI-Regular-final", Tahoma, Helvetica, Arial, sans-serif;
+}
+
+.container1 {
+	width: 500px;
+	height: 500px;
+	margin: 100px auto;
+	background-color: #FFFFFF;
+	border-radius: 10px;
+	padding: 20px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+	text-align: center;
+	font-size: 32px;
+	color: #663300;
+}
+
+form {
+	display: flex;
+	flex-direction: column;
+}
+
+label {
+	font-size: 18px;
+	color: #663300;
+	margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="password"] {
+	padding: 10px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+	border: none;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+input[type="button"] {
+	background-color: #FFC72C;
+	color: #663300;
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+	cursor: pointer;
+}
+
+input[type="submit"]:hover {
+	background-color: #FFD767;
+}
+
+.forgot-password {
+	text-align: center;
+	font-size: 16px;
+	color: #663300;
+	margin-top: 20px;
+	text-decoration: none;
+}
+
+.forgot-password:hover {
+	text-decoration: underline;
+}
+
+
+body {
+	background-color: #F2F2F2;
+}
+
+.container {
+	width: 513px;
+	height: auto;
+	margin: 100px auto;
+	background-color: #FFFFFF;
+	border-radius: 10px;
+	padding: 20px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+	text-align: center;
+	font-size: 32px;
+	color: #663300;
+}
+
+form {
+	display: flex;
+	flex-direction: column;
+}
+
+label {
+	font-size: 18px;
+	color: #663300;
+	margin-bottom: 5px;
+}
+
+input[type="tel"] {
+	padding: 10px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+	border: none;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+input[type="submit"] {
+	background-color: #FFC72C;
+	color: #663300;
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+	cursor: pointer;
+}
+
+input[type="submit"]:hover {
+	background-color: #FFD767;
+}
+
+.back-to-login {
+	text-align: center;
+	margin-top: 20px;
+}
+
+.back-to-login a {
+	color: #663300;
+	text-decoration: none;
+}
+
+.back-to-login a:hover {
+	text-decoration: underline;
+}
+
+/* Footer styling */
+
+footer {
+	padding: 10px;
+	text-align: center;
+	font-size: 18px;
+  }
+  
